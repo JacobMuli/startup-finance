@@ -16,8 +16,8 @@
             <!-- Mobile Sidebar Content -->
             <div class="flex grow flex-col gap-y-5 overflow-y-auto bg-slate-900 px-6 pb-4 ring-1 ring-white/10">
                 <div class="flex h-16 shrink-0 items-center">
-                    <x-application-logo class="h-8 w-auto fill-current text-emerald-500" />
-                    <span class="ml-3 text-xl font-bold text-white tracking-tight">FinEngine</span>
+                    <x-application-logo class="h-9 w-9 shrink-0" />
+                    <span class="ml-3 text-lg font-black text-white tracking-tight">Startup Finance</span>
                 </div>
                 <nav class="flex flex-1 flex-col">
                     <ul role="list" class="flex flex-1 flex-col gap-y-7">
@@ -60,8 +60,8 @@
 <div class="hidden lg:fixed lg:inset-y-0 lg:z-40 lg:flex lg:w-72 lg:flex-col">
     <div class="flex grow flex-col gap-y-5 overflow-y-auto bg-slate-900 px-6 pb-4">
         <div class="flex h-16 shrink-0 items-center">
-            <x-application-logo class="h-8 w-auto fill-current text-emerald-500" />
-            <span class="ml-3 text-xl font-bold text-white tracking-tight">FinEngine</span>
+            <x-application-logo class="h-9 w-9 shrink-0" />
+            <span class="ml-3 text-lg font-black text-white tracking-tight">Startup Finance</span>
         </div>
         <nav class="flex flex-1 flex-col">
             <ul role="list" class="flex flex-1 flex-col gap-y-7">
